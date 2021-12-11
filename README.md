@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/E%20Mail-0078D4?style=for-the-badge&logo=microsoft-Gmail&logoColor=white)](chuksmbanasoj@gmail.com)
 [![Twitter](https://img.shields.io/badge/%40chuksmbanaso-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/Chuksmbanaso)
 [![Facebook](https://img.shields.io/badge/%40chuksmbanaso-%131BA1B2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chuks.j.m)
-[![Linkedin](https://img.shields.io/badge/%40chuksmbanaso-%%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chukwudi-mbanaso-5b931a164/)
+[![Linkedin](https://img.shields.io/badge/%40chuksmbanaso-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chukwudi-mbanaso-5b931a164/)
 
 <br />
 
