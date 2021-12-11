@@ -47,13 +47,6 @@
 - [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
 <!-- YOUTUBE:END -->
 
-
-### 📕 Latest Blog Posts
-
-//<!-- BLOG-POST-LIST:START -->
-//<!-- BLOG-POST-LIST:END -->
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
