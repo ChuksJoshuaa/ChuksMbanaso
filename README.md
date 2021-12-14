@@ -3,7 +3,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games
