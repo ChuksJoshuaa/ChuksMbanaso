@@ -1,10 +1,9 @@
 ### Hi there, I'm Chuks - aka [d-coder] 👋 
 
 
-## I'm a Developer!!
+## I'm a Web Developer!!
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play video games
 
 ### Connect with me:
