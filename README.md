@@ -1,7 +1,7 @@
 ### Hi there, I'm Chuks - aka [d-coder] 👋 
 
 
-## I'm a Web Developer!!
+## I'm a Software Developer!!
 
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to draw and play video games
