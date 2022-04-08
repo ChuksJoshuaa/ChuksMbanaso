@@ -62,3 +62,23 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+  const Chukwudi_Joshua = {
+    pronouns: "He" | "Him",
+    title: "Full Stack Developer",
+    technologies: {
+        backend: {
+            ["Node Js", "Python", "Express Js", "Django", "Javascript"]
+        },
+        frontend: {
+            ["JavaScript", "HTML5", "CSS3", "Bootstrap", 
+             "Styled-component", "React Js", "SASS"]
+        },
+        databaseTools: {
+            ["PostgreSQL", "MySQL", "MongoDB"]
+        },
+        versionControlTools: {
+            ["Git", "GitHub", "Github Desktop"]
+        }
+    }
+  }    
