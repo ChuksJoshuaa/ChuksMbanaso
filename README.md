@@ -64,7 +64,7 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 ```
-  const ChuksJoshuaa = {
+  const Chukwudi_Joshua = {
     pronouns: "He" | "Him",
     title: "Full Stack Developer",
     technologies: {
