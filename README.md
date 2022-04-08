@@ -1,4 +1,4 @@
-### Hi there, I'm Chuks - aka [d-coder] 👋 
+### Hi there, I'm Chukwudi Joshua - aka [d-coder] 👋 
 
 
 ## I'm a Software Developer!!
@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[![Gmail](https://img.shields.io/badge/%20Email-0078D4?style=for-the-badge&logo=microsoft-Gmail&logoColor=white)](chuksmbanasoj@gmail.com)
-[![Twitter](https://img.shields.io/badge/%40Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/Chuksmbanaso)
+[![Gmail](https://img.shields.io/badge/%20Email-0078D4?style=for-the-badge&logo=microsoft-Gmail&logoColor=white)](chuksjoshuaa@gmail.com)
+[![Twitter](https://img.shields.io/badge/%40Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/ChuksJoshuaa)
 [![Facebook](https://img.shields.io/badge/%40Facebook-%131BA1B2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/chuks.j.m)
-[![Linkedin](https://img.shields.io/badge/%40Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-mbanaso/)
+[![Linkedin](https://img.shields.io/badge/%40Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
 
 <br />
 
@@ -55,9 +55,9 @@
 </details>
 
 
-[twitter]: https://www.twitter.com/Chuksmbanaso
+[twitter]: https://www.twitter.com/ChuksJoshuaa
 [facebook]: https://www.facebook.com/chuks.j.m
-[linkedin]: https://www.linkedin.com/in/chukwudi-mbanaso-5b931a164/
+[linkedin]: https://www.linkedin.com/in/chuks-joshuaa/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
@@ -84,3 +84,7 @@
     }
   }    
 ```
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
+</div>
