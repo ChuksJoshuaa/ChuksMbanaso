@@ -1,49 +1,40 @@
-### Hi there, I'm Chukwudi Joshua - aka [d-coder] 👋 
+### Hi there👋, My name is Joshua
 
-
-## I'm a Software Developer!!
-
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to draw and play video games
+I am a Software Developer based in Lagos, Nigeria. I am proficient in both the Frontend development and backend development. I have extensive knowledge in HTML, CSS, Bootstrap, Sass, Javascript, React, Node.Js, MongoDb, PostgreSQL, Python, and Django. As a Software Developer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/%40Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/ChuksJoshuaa)
 [![Linkedin](https://img.shields.io/badge/%40Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="PostgreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][webdevplaylist]
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="Aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][webdevplaylist]
-
-<br />
-
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How To Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT In Under 1 Hour Without Coding Knowledge](https://www.youtube.com/watch?v=AaCgydeMu64)
-- [STACKr News Weekly: Developer Trends 2022 🔥, Studio Tour 📷, 5 Steps to become a Programmer 5️⃣](https://www.youtube.com/watch?v=Pqa55L8Yjvw)
-- [My ULTIMATE 2021 Studio Tour!! - How I Make My Videos - Welcome to STACKr Studio!!](https://www.youtube.com/watch?v=fSsfuyRgCZI)
-- [STACKr News Weekly - Cyber Monday Sale: Crypto 💲, Self-Taught Programmers 📚, JavaScript 🆚 React](https://www.youtube.com/watch?v=zt6uMtxrq8M)
-- [STACKr News Weekly: Quit to build a Game Studio, 10 Ways - better Developer, Move to a boring city!](https://www.youtube.com/watch?v=R_XwamGcCBQ)
-<!-- YOUTUBE:END -->
-
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+ 
+### Frontend  
+ 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+ 
+### Backend  
+ 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+ 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -53,7 +44,6 @@
 
 
 [twitter]: https://www.twitter.com/ChuksJoshuaa
-[facebook]: https://www.facebook.com/chuks.j.m
 [linkedin]: https://www.linkedin.com/in/chuks-joshuaa/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
