@@ -15,7 +15,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  
 ### Frontend  
  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -27,7 +27,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  
 ### Backend  
  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
@@ -36,7 +36,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 </div>
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
  
 <details>
   <summary>:zap: GitHub Stats</summary>
