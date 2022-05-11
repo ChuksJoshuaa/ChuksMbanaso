@@ -7,8 +7,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 ### Connect with me:
 
 [![Twitter](https://img.shields.io/badge/%40Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/ChuksJoshuaa)
-<a href="https://github.com/ibrahimgurhandev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github /> </a>
+[![Github](https://img.shields.io/badge/%40Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.github.com/ChuksJoshuaa)
 [![Linkedin](https://img.shields.io/badge/%40Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
 
 ## My Skill Set  
@@ -49,6 +48,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 
 [twitter]: https://www.twitter.com/ChuksJoshuaa
 [linkedin]: https://www.linkedin.com/in/chuks-joshuaa/
+[Github]: https://www.linkedin.com/in/ChuksJoshuaa/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
