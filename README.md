@@ -28,7 +28,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
  
-## Backend  
+### Backend  
  
 <div align="left">  
  
@@ -40,7 +40,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  
 </div>
  
-## Database Tools
+### Database Tools
  <div align="left" >
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
