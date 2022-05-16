@@ -20,7 +20,6 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 
@@ -47,12 +46,6 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 
 <!-- </td><td valign="top" width="33%"> -->
  
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ChuksMbanaso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChuksJoshuaa&show_icons=true&hide_border=true&theme=radical" />
-  
- </details>
 
 ```
   const Chukwudi_Joshua = {
@@ -75,6 +68,12 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
     }
   }    
 ```
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ChuksMbanaso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChuksJoshuaa&show_icons=true&hide_border=true&theme=radical" />
+  
+ </details>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
