@@ -9,7 +9,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
 
 
-## My Skill Set  
+<!-- ## My Skill Set  
 
  
 ### Frontend  
@@ -41,7 +41,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
- </div>
+ </div> -->
 
 
 <!-- </td><td valign="top" width="33%"> -->
