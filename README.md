@@ -1,6 +1,6 @@
 ### Hi there👋, My name is Joshua
 
-<img width="100%" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652244863/media/4f214ce1b62fbcd1be3db466ffe7950e_pxxmtc.png" title="icon" alt="icon">
+<img width="100%" height ="20%" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652244863/media/4f214ce1b62fbcd1be3db466ffe7950e_pxxmtc.png" title="icon" alt="icon">
 
 I am a Software Developer based in Lagos, Nigeria. I am proficient in both the Frontend development and backend development. I have extensive knowledge in HTML, CSS, Bootstrap, Sass, Javascript, React, Node.Js, MongoDb, PostgreSQL, Python, and Django. As a Software Developer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
