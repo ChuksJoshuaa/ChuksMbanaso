@@ -1,7 +1,5 @@
 ### Hi there👋, My name is Joshua
 
-<img width="100%" height ="20%" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652244863/media/4f214ce1b62fbcd1be3db466ffe7950e_pxxmtc.png" title="icon" alt="icon">
-
 I am a Software Developer based in Lagos, Nigeria. I am proficient in both the Frontend development and backend development. I have extensive knowledge in HTML, CSS, Bootstrap, Sass, Javascript, React, Node.Js, MongoDb, PostgreSQL, Python, and Django. As a Software Developer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ### Connect with me:
@@ -9,10 +7,10 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ChuksJoshuaa)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ChuksJoshuaa)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.chuksjoshuaa@gmail.com) -->
+
 
 ## My Skill Set  
-<!-- <table><tr><td valign="top" width="20%"> -->
+
  
 ### Frontend  
  
@@ -25,7 +23,6 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 
  
 ### Backend  
@@ -55,16 +52,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 
   <img align="left" alt="ChuksMbanaso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChuksJoshuaa&show_icons=true&hide_border=true&theme=radical" />
   
-</details>
-
-
-[twitter]: https://www.twitter.com/ChuksJoshuaa
-[linkedin]: https://www.linkedin.com/in/chuks-joshuaa/
-[Github]: https://www.linkedin.com/in/ChuksJoshuaa/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+ </details>
 
 ```
   const Chukwudi_Joshua = {
