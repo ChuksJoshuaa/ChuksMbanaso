@@ -11,7 +11,7 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
 
 
- ## My Skills Set  
+ ## <h1 align="center">My Skills Set</h1>
  
 <div align="center"> 
  
