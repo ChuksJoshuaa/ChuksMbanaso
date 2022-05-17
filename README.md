@@ -4,7 +4,7 @@
 
 I am a Software Developer based in Lagos, Nigeria. I am proficient in both the Frontend development and backend development. I have extensive knowledge in HTML, CSS, Bootstrap, Sass, Material-UI, Javascript, React, Node.Js, MongoDb, PostgreSQL, Python, and Django. As a Software Developer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
-## <h1 align="center">Connect with me:</h1>Connect with me:
+## <h1 align="center">Connect with me:</h1>
 
 <div align="center">
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ChuksJoshuaa)
