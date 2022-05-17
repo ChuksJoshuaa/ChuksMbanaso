@@ -32,9 +32,12 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
  </div>
 
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
-</div>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ChuksMbanaso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChuksJoshuaa&show_icons=true&hide_border=true&theme=radical" />
+  
+ </details>
 
 ```
   const Chukwudi_Joshua = {
@@ -57,11 +60,8 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
     }
   }    
 ```
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ChuksMbanaso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ChuksJoshuaa&show_icons=true&hide_border=true&theme=radical" />
-  
- </details>
-
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
+</div>
 
