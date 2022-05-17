@@ -31,6 +31,11 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
  </div>
 
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
+</div>
+
 ```
   const Chukwudi_Joshua = {
     pronouns: "He" | "Him",
@@ -59,6 +64,4 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
   
  </details>
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
-</div>
+
