@@ -6,11 +6,9 @@ I am a Software Developer based in Lagos, Nigeria. I am proficient in both the F
 
 ## <h1 align="center">Connect with me:</h1>
 
-<div align="center">
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/ChuksJoshuaa)
+[!Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ChuksJoshuaa)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ChuksJoshuaa)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuks-joshuaa/)
- </div>
 
 
  ## <h1 align="center">My Skills Set</h1>
