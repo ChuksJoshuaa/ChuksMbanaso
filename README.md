@@ -48,13 +48,13 @@ I am a Software Developer with over 2+ years expertise in designing enterprise s
 ```
   const Chukwudi_Joshua = {
     pronouns: "He" | "Him",
-    title: "Full Stack Developer",
+    title: "Software Developer",
     technologies: {
         backend: {
             ["Node Js", "Python", "Express Js", "Django", "Javascript"]
         },
         frontend: {
-            ["JavaScript", "HTML5", "CSS3", "Bootstrap", 
+            ["JavaScript", "Typescript", "HTML5", "CSS3", "Bootstrap", 
              "Styled-component", "React Js", "SASS", "Tailwindcss", "Material-UI"]
         },
         databaseTools: {
