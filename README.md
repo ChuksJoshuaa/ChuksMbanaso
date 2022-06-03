@@ -55,7 +55,7 @@ I am a Software Developer with over 2+ years expertise in designing enterprise s
         },
         frontend: {
             ["JavaScript", "HTML5", "CSS3", "Bootstrap", 
-             "Styled-component", "React Js", "SASS"]
+             "Styled-component", "React Js", "SASS", "Tailwindcss", "Material-UI"]
         },
         databaseTools: {
             ["PostgreSQL", "MySQL", "MongoDB"]
