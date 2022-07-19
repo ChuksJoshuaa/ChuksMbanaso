@@ -50,20 +50,20 @@ I am an Experienced Software Engineer with over 2+ years expertise in designing 
 ```
   const Chukwudi_Joshua = {
     pronouns: "He" | "Him",
-    title: "Software Developer",
+    title: "Software Engineer",
     technologies: {
-        backend: {
-            ["Node Js", "Python", "Express Js", "Django", "Javascript"]
-        },
         frontend: {
             ["JavaScript", "Typescript", "HTML5", "CSS3", "Bootstrap", 
              "Styled-component", "React Js", "Next Js", "SASS", "Tailwindcss", "Material-UI"]
         },
+        backend: {
+            ["Node Js", "Python", "Express Js", "Django", "Javascript"]
+        }, 
         databaseTools: {
             ["PostgreSQL", "MySQL", "MongoDB"]
         },
         versionControlTools: {
-            ["Git", "GitHub", "Github Desktop"]
+            ["Git", "GitHub", "Github Desktop", "Gitlab"]
         }
     }
   }    
