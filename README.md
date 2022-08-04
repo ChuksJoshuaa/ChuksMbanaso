@@ -54,7 +54,7 @@ I am an Experienced Software Engineer with over 2+ years expertise in designing 
     technologies: {
         frontend: {
             ["JavaScript", "Typescript", "HTML5", "CSS3", "Bootstrap", 
-             "Styled-component", "React Js", "Next Js", "SASS", "Tailwindcss", "Material-UI"]
+             "Styled-component", "React Js", "Redux", "Redux-Toolkit", "Next Js", "SASS", "Tailwindcss", "Material-UI"]
         },
         backend: {
             ["Node Js", "Python", "Express Js", "Django", "Javascript"]
