@@ -2,7 +2,7 @@
 
 <img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1658199615/media/Screenshot_219_vixmsm.png" >
 
-I am an Experienced Software Engineer with over 2+ years expertise in designing enterprise softwares and web applications. I have extensive knowledge in HTML5, CSS3, Bootstrap, Sass, Material-UI, Tailwindcss, Javascript, Typescript, React.js, Next.js, Redux, Node.js, Express.js, MongoDb, PostgreSQL, Python, Trello, Jira, Jest, Mocha, Responsive Web Design, Next.js and Django. As a Software Engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
+I am an Experienced Software Engineer with over 2+ years expertise in designing enterprise softwares and web applications. I have extensive knowledge in HTML5, CSS3, Bootstrap, Sass, Material-UI, Tailwindcss, Javascript, Typescript, React.js, Next.js, Redux, Node.js, Express.js, MongoDb, PostgreSQL, Python, Trello, Jira, Jest, Mocha, Responsive Web Design and Django. As a Software Engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
 ## <h1 align="left">Connect with me:</h1>
 
