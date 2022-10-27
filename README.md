@@ -1,6 +1,6 @@
 ### Hi there👋, My name is Joshua
 
-<img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1658199615/media/Screenshot_219_vixmsm.png" >
+<img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1666862266/media/Screenshot_53_nnlviy.png" >
 
 I am an Experienced Software Engineer, well versed in designing enterprise software and web applications. I have extensive knowledge in HTML5, CSS3, Bootstrap, Sass, Material-UI, Tailwindcss, Javascript, Typescript, React.js, Next.js, Redux, Node.js, Express.js, MongoDb, PostgreSQL, Python, Trello, Jira, Jest, Mocha, Responsive Web Design and Django. As a Software Engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
