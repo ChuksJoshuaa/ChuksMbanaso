@@ -2,7 +2,7 @@
 
 <img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1666862266/media/Screenshot_53_nnlviy.png" >
 
-Software Engineer with 3 years’ experience in improving web and software performance, testing and updating existing web applications and software, and developing new software functionalities. Offers proven track record of extraordinary achievements, strong attention to detail, and ability to finish projects on schedule and within budget.
+Result-oriented computer and software professional with over 2 years’ experience in improving computer web and software performance, testing and updating existing web applications and software, and developing new software functionalities. I have a significance track record of achievements, strong attention to detail, and ability to finish projects on schedule and within budget.
 
 ## <h1 align="left">Connect with me:</h1>
 
