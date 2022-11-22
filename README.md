@@ -53,14 +53,14 @@ Result-oriented computer and software professional with few years of experience 
     title: "Software Engineer",
     technologies: {
         frontend: {
-            ["JavaScript", "Typescript", "HTML5", "CSS3", "Bootstrap", 
+            ["JavaScript", "Typescript", "HTML5", "CSS3", "Bootstrap", "Rest", "GraphQL", 
              "Styled-component", "React Js", "Redux", "Redux-Toolkit", "Next Js", "SASS", "Tailwindcss", "Material-UI"]
         },
         backend: {
             ["Node Js", "Python", "Express Js", "Django", "Javascript"]
         }, 
         databaseTools: {
-            ["PostgreSQL", "MySQL", "MongoDB"]
+            ["PostgreSQL", "MySQL", "MongoDB", "SQL"]
         },
         versionControlTools: {
             ["Git", "GitHub", "Github Desktop", "Gitlab"]
