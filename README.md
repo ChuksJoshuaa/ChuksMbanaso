@@ -48,7 +48,7 @@ Result-oriented computer and software professional with few years of experience 
  </details>
 
 ```
-  const Chukwudi_Joshua = {
+  const Chuck_Joshua = {
     pronouns: "He" | "Him",
     title: "Software Engineer",
     technologies: {
