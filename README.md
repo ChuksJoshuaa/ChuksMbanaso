@@ -1,6 +1,6 @@
 ### Hi there👋, My name is Joshua
 
-<img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1666862266/media/Screenshot_53_nnlviy.png" >
+<img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1669492401/media/Screenshot_289_m9sup3.png" >
 
 Result-oriented computer and software professional with few years of experience in improving computer web and software performance, testing and updating existing web applications and software, and developing new software functionalities. I have a significance track record of achievements, strong attention to detail, and ability to finish projects on schedule and within budget.
 
