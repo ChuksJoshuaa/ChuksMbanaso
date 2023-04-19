@@ -54,7 +54,7 @@ Result-oriented computer and software professional with few years of experience 
     technologies: {
         frontend: {
             ["JavaScript", "Typescript", "HTML5", "CSS3", "Bootstrap", "Rest", "GraphQL", 
-             "Styled-component", "React Js", "Redux", "Redux-Toolkit", "Next Js", "SASS", "Tailwindcss", "Material-UI"]
+             "Styled-component", "React Js", "React Native", "Redux", "Vue Js", "Nuxt Js", "Redux-Toolkit", "Next Js", "SASS", "Tailwindcss", "Material-UI"]
         },
         backend: {
             ["Node Js", "Python", "Express Js", "Django", "Javascript"]
