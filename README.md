@@ -2,7 +2,7 @@
 
 <img width="100%" height="250px" align="center" src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1669492401/media/Screenshot_289_m9sup3.png" >
 
-An experienced software engineer with 5 years of hands-on expertise, I am highly skilled in developing robust and scalable software solutions. With a strong foundation in Computer and Industrial Engineering and a passion for cutting-edge technologies, I have consistently delivered high- quality results throughout my career. My core competencies include proficiency in multiple programming languages such as Typescript, Solidity, Python and Javascript, along with expertise in Blockchain, Front-end and Back-end development frameworks like Metamask, Hardhat, Foundry, Ethers.js, Web3.js, React.js, Three.js, Vue.js, Node.js, Django. I have a deep understanding of software architecture, design patterns, and database management systems. 
+An experienced software engineer with 6 years of hands-on expertise, I am highly skilled in developing robust and scalable software solutions. With a strong foundation in Computer and Industrial Engineering and a passion for cutting-edge technologies, I have consistently delivered high- quality results throughout my career. My core competencies include proficiency in multiple programming languages such as Typescript, Solidity, Python and Javascript, along with expertise in Mobile, Front-end and Back-end development frameworks like Metamask, Hardhat, Foundry, Ethers.js, Web3.js, React.js, Three.js, Vue.js, Node.js, Django. I have a deep understanding of software architecture, design patterns, and database management systems. 
 
 
 ## <h1 align="left">Connect with me:</h1>
