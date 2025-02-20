@@ -73,8 +73,3 @@ An experienced software engineer with 6 years of hands-on expertise, I am highly
     }
   }    
 ```
-
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChuksJoshuaa&theme=dark" alt="Chukwudi_Joshua" />
-</div>
-
